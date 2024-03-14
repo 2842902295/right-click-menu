@@ -4,7 +4,10 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <div>
-    {{'这是我的项目435452谢谢'}}
+    {{'这是我的项目435452谢3谢'}}
+
+
+    {{'我去你大爷的'}}
     <a href="https://vitejs.dev" target="_blank">
       <img src="/vite.svg" class="logo" alt="Vite logo" />
     </a>
